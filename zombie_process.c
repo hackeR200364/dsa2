@@ -33,3 +33,6 @@ int main() {
 
     return 0;
 }
+
+//Command
+ps aux | grep zombie_process
